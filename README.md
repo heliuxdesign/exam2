@@ -1,3 +1,18 @@
+## Project exam 2
+In this school project I created and designed a front end to a Social Media Company, called SOME There were a list og required features.
+I worked with the official API documentation from the school, Noroff.
+This project i build with React and Bootstrap.
+
+
+
+
+
+
+## Contact
+Take contact via <a  href="https://www.linkedin.com/in/heli-j%C3%A4rvel%C3%A4inen-714ba818b/">LinkedIn.</a>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -65,3 +80,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
