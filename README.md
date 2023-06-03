@@ -6,8 +6,8 @@ This  is a front-end application developed using React and Bootstrap. It serves 
  
 ## 1. Clone the repository
 ## 2. Install Node.js modules
-   npm install
-   <p>Remove "homepage": "`https://heliuxdesign.github.io/exam2`" from package.json</p>
+   npm install   
+   Remove "homepage": "`https://heliuxdesign.github.io/exam2`" from package.json   
    
 ## 3. Start the project
    npm start
