@@ -1,7 +1,6 @@
 ## Project exam 2
 In this school project I created and designed a front end to a Social Media Company, called SOME There were a list og required features.
-I worked with the official API documentation from the school, Noroff.
-This project i build with React and Bootstrap.
+This  is a front-end application developed using React and Bootstrap. It serves as the user interface for interacting with the API, while the admin functionality is managed by an existing application. 
 Please, use a @stud.noroff.no email when you register. You can type any name etc at the beginning og the e-mail address.
 <a href="https://heliuxdesign.github.io/project2/" class="btn btn-primary">Go to hosted demo</a>
 
